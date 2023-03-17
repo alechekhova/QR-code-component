@@ -34,7 +34,7 @@ p{
     text-align: center;
     font-family: 'Outfit', sans-serif;
     gap: 25px;
-    box-shadow: 0px 15px 30px gray;
+    box-shadow: 0px 15px 30px lightgray;
 }
 
 .qr-code-image {
